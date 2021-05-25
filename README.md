@@ -4,4 +4,6 @@ Hi there! I'm Humayun. I'm a full-stack developer and a competitive coder. Your 
   
 👨‍💻
 
+Besides programming, I like clicking pictures. 
+
 Email me at [khanhumayun95@gmail.com](mailto:khanhumayun95@gmail.com) or find me at [LinkedIn](https://www.linkedin.com/in/damianarado/) to get in touch. Thanks! Have a good day.
