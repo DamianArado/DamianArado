@@ -2,4 +2,4 @@
 
 Hi there! I'm Humayun. I'm a full-stack developer and a competitive coder. I hope you'll find some useful repositories here. 
   
-Email me at [khanhumayun95@gmail.com](mailto:khanhumayun95@gmail.com) or find me at [LinkedIn](https://www.linkedin.com/in/damianarado/) to get in touch. Thanks! Have a good day.
+Email me at [here](mailto:khanhumayun95@gmail.com) or find me [here](https://www.linkedin.com/in/damianarado/) to get in touch. Thanks! Have a good day.
