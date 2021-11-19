@@ -10,7 +10,7 @@ Testing: JUnit5, Mockito3.
 Tools: Linux, Maven, Gradle, Jenkins, Docker, Jira, AWS and GCP.   
 Languages: C/C++, Java, Python, SQL, JSON.    
 
-My blogs will be kept [here](https://damianarado.medium.com).       
+All my blogs will be kept [here](https://damianarado.medium.com).       
   
 Email me [here](mailto:khanhumayun95@gmail.com) or find me [here](https://www.linkedin.com/in/damianarado/) to get in touch. Thanks! Have a good day.   
 
