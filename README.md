@@ -12,6 +12,6 @@ Languages: C/C++, Java, Python, SQL, JSON.
 
 All my blogs will be kept [here](https://damianarado.medium.com).       
   
-Email me [here](mailto:khanhumayun95@gmail.com) or find me [here](https://www.linkedin.com/in/damianarado/) to get in touch. Thanks! Have a good day.   
+I'm OPEN to work on challenging projects. You can email me [here](mailto:khanhumayun95@gmail.com) or find me [here](https://www.linkedin.com/in/damianarado/) to get in touch. Thanks! Have a good day.   
 
 Oh, and also: I like clicking pictures. The pic on top was clicked by [Viktor Kiryanov](https://unsplash.com/@vki) but I post my shots [here](https://vsco.co/damianarado).
