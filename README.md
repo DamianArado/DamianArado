@@ -1,9 +1,13 @@
 ![clouds](https://github.com/damianarado/damianarado/raw/master/viktor-kiryanov-zQjQaEiAafk-unsplash.jpg)
 
-Hi there! I'm Humayun, a junior year Computer Engineering student at ZHCET, AMU. I am quite fond of Software Development and Cloud Computing. My interests in technology goes back to the time when I used to read [Digit](https://www.digit.in/) tech magazines as a kid to update myself with info from latest smartphones and laptops to all the things happening in the technology space. There was no going back since then! The aim is use to use my skillset to solve real world problems and to gain valuable experiences while working on challenging projects. It may get tough but still I'm hoping for the best.   
+Hi there! I'm Humayun, a junior year Computer Engineering student at ZHCET, AMU. I am quite fond of Software Development, Cloud Computing and Computer Science fundamentals! 
+
+My interests in technology goes back to the time when I used to read [Digit](https://www.digit.in/) tech magazines as a kid to update myself with info from latest smartphones and laptops to all the things happening in the technology space. There was no going back since then! 
+
+The aim is use to use my skillset to solve real world problems, bringing a positive difference to the world and to gain valuable experiences while working on challenging projects. It may get tough but still I'm hoping for the best.   
 
 Techstack on which I can work includes -     
-Front End: JavaScript, React, Typescript, Vue.js, Angular.   
+Front End: JavaScript, React, Typescript, Angular.   
 Back End: Node.js, Golang, Spring Framework.  
 Databases: NoSQL and SQL both.  
 Testing: JUnit5, Mockito3, Selenium.          
