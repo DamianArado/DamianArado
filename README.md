@@ -10,7 +10,7 @@ Techstack on which I can work includes -
 Front End: JavaScript, React, Typescript, Angular.   
 Back End: Node.js, Golang, Spring Framework.  
 Databases: NoSQL and SQL both.  
-Testing: JUnit5, Mockito3, Selenium, Jasmine, Jest, Protractor.          
+Testing: JUnit5, Mockito3, Selenium, Jasmine, Jest, Cypress.          
 Tools: Linux, Maven, Gradle, Jenkins, Docker, Jira, AWS, GCP.   
 Languages: C/C++, Java, Python, SQL, JSON.    
 
