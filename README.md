@@ -1,4 +1,4 @@
-![clouds](https://github.com/damianarado/damianarado/raw/master/viktor-kiryanov-zQjQaEiAafk-unsplash.jpg)
+![Clouds + Sunset](https://github.com/damianarado/damianarado/raw/master/quino-al-ZuZK8D55_cw-unsplash.jpg)
 
 Hi there! I'm Humayun, a junior year Computer Engineering student at ZHCET, AMU. In my professional life, I'm passionate about Software Development, Cloud Computing, Computer Networks, Databases, questions like - How different systems interact? What can we do to improve systems using code? 
 
@@ -18,4 +18,4 @@ All of my unsponsored blogs are kept [here](https://damianarado.medium.com).
   
 I'm OPEN to work on interesting projects. You can email me [here](mailto:khanhumayun95@gmail.com) or find me [here](https://www.linkedin.com/in/damianarado/) to get in touch. Thanks! Have a good day.   
 
-Oh, and also: I like clicking pictures. The pic on top was clicked by [Viktor Kiryanov](https://unsplash.com/@vki) but I post my shots [here](https://vsco.co/damianarado).
+Oh, and also: I like clicking pictures. The pic on top was clicked by [Quino Al](https://unsplash.com/@quinoal) but I post my shots [here](https://vsco.co/damianarado).
