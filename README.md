@@ -1,6 +1,6 @@
 ![Clouds + Sunset](https://github.com/damianarado/damianarado/raw/master/quino-al-ZuZK8D55_cw-unsplash.jpg)
 
-Hi there! I'm Humayun, a junior year Computer Engineering student at ZHCET, AMU. In my professional life, I'm passionate about Software Development, Cloud Computing, Computer Networks, Databases, questions like - How different systems interact? What can we do to improve systems using code? 
+Hi there! I'm Humayun. I'm a final year Computer Engineering student at ZHCET, AMU. In my professional life, I'm passionate about Software Development, Cloud Computing, Computer Networks, Databases, questions like - How different systems interact? What can we do to improve systems using code? 
 
 My interests in tech goes back to the time when I used to read [Digit](https://www.digit.in/) magazines as a kid to update myself with info from the latest smartphones and laptops to all the things happening in the technology and innovative engineering space. I believe that's where this all started and I never looked back! 
 
