@@ -7,12 +7,12 @@ My interests in tech goes back to the time when I used to read [Digit](https://w
 The aim is use to use my skillset to solve real world problems for the org that trusts me, bringing a positive difference to the product, and to gain valuable experiences while working with or without team on challenging projects. Rough seas make stronger sailors. - Robin Sharma  
 
 Techstack on which I can work includes -     
-Front End: JavaScript, React, Typescript, Angular.   
+Front End: JavaScript, React, Next.js, Typescript, Angular.   
 Back End: Node.js, Golang, Spring Framework.  
 Databases: NoSQL and SQL both.  
 Testing: JUnit5, Mockito3, Selenium, Jasmine, Jest, Cypress.          
 Tools: Linux, Maven, Gradle, Jenkins, Docker, Jira, AWS, GCP.   
-Languages: C/C++, Java, Python, SQL, JSON.    
+Languages: C/C++, Java, Python, Elixir, SQL, JSON.    
 
 All of my unsponsored blogs are kept [here](https://damianarado.medium.com).       
   
