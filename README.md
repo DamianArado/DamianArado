@@ -18,4 +18,4 @@ All of my unsponsored blogs are kept [here](https://damianarado.medium.com).
   
 I'm OPEN to work on interesting projects. You can email me [here](mailto:khanhumayun95@gmail.com) or find me [here](https://www.linkedin.com/in/damianarado/) to get in touch. Thanks! Have a good day.   
 
-Oh, and also: I like clicking pictures. The pic on top was clicked by [Quino Al](https://unsplash.com/@quinoal) but I post my shots [here](https://vsco.co/damianarado).
+Oh, and also: I like clicking pictures. The pic on top was clicked by [Quino Al](https://unsplash.com/@quinoal) but I post my shots [here](https://vsco.co/h7myn).
